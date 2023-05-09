@@ -1,7 +1,7 @@
 # Universal Recommendation System
 
 **Group Members:**<br>
-<br>Muhammad Ali Amar Naseer (54353) (Leader)<br>
+<br>Muhammad Ali Ammar Naseer (54353) (Leader)<br>
 Hassaan Ahmed (60211)<br>
 Hafsa Amin (60209)<br>
 Abdul Moiz (54357)<br>
